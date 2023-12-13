@@ -50,31 +50,31 @@ category_items = [
     id: 1,
     src: 'assets/image/cat-1.jpg',
     alt: '',
-    title: 'Fresh Fruit'
+    title: 'Trung SHOP'
   },
   {
     id: 2,
     src: 'assets/image/cat-2.jpg',
     alt: '',
-    title: 'Dried Fruit'
+    title: 'Trung SHOP'
   },
   {
     id: 3,
     src: 'assets/image/cat-3.jpg',
     alt: '',
-    title: 'Vegetables'
+    title: 'Trung SHOP'
   },
   {
     id: 4,
     src: 'assets/image/cat-4.jpg',
     alt: '',
-    title: 'Drink Fruits'
+    title: 'Trung SHOP'
   },
   {
     id: 5,
     src: 'assets/image/cat-5.jpg',
     alt: '',
-    title: 'Fresh Meat'
+    title: 'Trung SHOP'
   }
 ] ;
 
